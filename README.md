@@ -21,6 +21,3 @@ git clone : https://github.com/vaishnaviakre/zudio-clone.git
 
 2. Open the folder and run `index.html` in your browser.
 
-## Author
-
-Created by [vaishnaviakre](https://github.com/yourusername](https://github.com/vaishnaviakre)
