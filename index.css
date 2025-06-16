@@ -1,0 +1,22 @@
+
+    .logo {
+      background: url('./2.webp') no-repeat center center/cover;
+      height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: black;
+      text-shadow: 1px 1px 5px black;
+    }
+
+    .card img {
+      height: 300px;
+      object-fit: cover;
+    }
+    
+    footer {
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
